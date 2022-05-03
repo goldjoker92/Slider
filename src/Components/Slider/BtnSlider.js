@@ -3,7 +3,7 @@ import leftArrow from "./icons/left-arrow.svg";
 import rightArrow from "./icons/right-arrow.svg";
 
 
-export default function BtnSlider({direction,moveSlide}) {// destrucring
+export default function BtnSlider({direction,moveSlide}) {// destrucring .
   console.log(direction);
   console.log(moveSlide);
   return (
